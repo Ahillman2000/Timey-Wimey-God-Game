@@ -1,0 +1,1059 @@
+﻿Log file open, 11/02/22 18:58:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20800)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Temporal_Tenacity
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "X:\Games Design\UWE\Workstream 3\Temporal_Tenacity\Temporal_Tenacity.uproject" -EpicPortal -epicusername=Masquerade_Int -epicuserid=08a77ae5e5fc48a1bf24c7be2336be20 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 3 2200G with Radeon Vega Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="407d9b5940fd02bb9d4060b3c1b21976"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 6.882434
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-563F76904F5D495D4659178A4468AE3D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Masquerade_Int -epicuserid=08a77ae5e5fc48a1bf24c7be2336be20 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: X:/Games Design/Engine Versions/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.02-18.58.28:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.02-18.58.28:364][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.02-18.58.28:364][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.02-18.58.28:364][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.02-18.58.28:381][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.02-18.58.28:381][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.02-18.58.28:381][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.02-18.58.28:381][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.02-18.58.28:381][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.02-18.58.28:382][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.02-18.58.28:382][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.02-18.58.28:388][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.02-18.58.28:889][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.02-18.58.28:889][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.02-18.58.30:145][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.02-18.58.30:145][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 12252MB of shared system memory, 2 output[s]
+[2022.11.02-18.58.30:175][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.02-18.58.30:175][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 12252MB of shared system memory, 0 output[s]
+[2022.11.02-18.58.30:175][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.02-18.58.30:176][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.02-18.58.30:196][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.02-18.58.30:214][  0]LogHAL: Display: Platform has ~ 24 GB [25694613504 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.02-18.58.30:214][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.02-18.58.30:214][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.02-18.58.30:214][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.02-18.58.30:241][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.02-18.58.30:241][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.02-18.58.30:242][  0]LogInit: Computer: DESKTOP-ES48RO4
+[2022.11.02-18.58.30:242][  0]LogInit: User: tenri
+[2022.11.02-18.58.30:242][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.11.02-18.58.30:242][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.02-18.58.30:242][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2022.11.02-18.58.30:242][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.02-18.58.30:242][  0]LogMemory: Process Physical Memory: 262.83 MB used, 272.15 MB peak
+[2022.11.02-18.58.30:242][  0]LogMemory: Process Virtual Memory: 195.11 MB used, 195.11 MB peak
+[2022.11.02-18.58.30:242][  0]LogMemory: Physical Memory: 9422.20 MB used,  15082.09 MB free, 24504.29 MB total
+[2022.11.02-18.58.30:242][  0]LogMemory: Virtual Memory: 19775.21 MB used,  43641.08 MB free, 63416.29 MB total
+[2022.11.02-18.58.30:242][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.02-18.58.30:249][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.02-18.58.30:506][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.02-18.58.30:525][  0]LogInit: Using OS detected language (en-US).
+[2022.11.02-18.58.30:525][  0]LogInit: Using OS detected locale (en-GB).
+[2022.11.02-18.58.30:529][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.02-18.58.31:206][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.02-18.58.31:340][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.02-18.58.31:340][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.02-18.58.31:341][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.02-18.58.31:341][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.11.02-18.58.31:341][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.02-18.58.31:768][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.02-18.58.31:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.02-18.58.33:639][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.02-18.58.33:648][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.02-18.58.33:648][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.02-18.58.34:510][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.02-18.58.34:856][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.02-18.58.34:874][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.02-18.58.34:903][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.02-18.58.35:131][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.02-18.58.35:131][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.02-18.58.35:249][  0]LogD3D12RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.02-18.58.35:249][  0]LogWindows: Attached monitors:
+[2022.11.02-18.58.35:249][  0]LogWindows:     resolution: 1366x768, work area: (-1366, 304) -> (0, 1032), device: '\\.\DISPLAY1'
+[2022.11.02-18.58.35:249][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.11.02-18.58.35:249][  0]LogWindows: Found 2 attached monitors.
+[2022.11.02-18.58.35:249][  0]LogWindows: EnumDisplayDevices:
+[2022.11.02-18.58.35:249][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.11.02-18.58.35:249][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.11.02-18.58.35:250][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.02-18.58.35:250][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.02-18.58.35:250][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.02-18.58.35:250][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2022.11.02-18.58.35:250][  0]LogD3D12RHI:   Driver Version: 522.25 (internal:31.0.15.2225, unified:522.25)
+[2022.11.02-18.58.35:250][  0]LogD3D12RHI:      Driver Date: 10-6-2022
+[2022.11.02-18.58.35:250][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.11.02-18.58.35:251][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.02-18.58.35:251][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.02-18.58.35:350][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.02-18.58.35:477][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Temporal_Tenacity.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Intermediate/TurnkeyReport_0.log" -log="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Intermediate/TurnkeyLog_0.log" -project="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Temporal_Tenacity.uproject"  -platform=all'
+[2022.11.02-18.58.35:477][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""X:/Games Design/Engine Versions/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Temporal_Tenacity.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Intermediate/TurnkeyReport_0.log" -log="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Intermediate/TurnkeyLog_0.log" -project="X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Temporal_Tenacity.uproject"  -platform=all" ]
+[2022.11.02-18.58.35:808][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.02-18.58.35:809][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.02-18.58.36:242][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.02-18.58.36:242][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.02-18.58.36:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.02-18.58.36:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.02-18.58.36:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.02-18.58.36:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.02-18.58.36:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.02-18.58.36:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.02-18.58.36:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.02-18.58.36:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.02-18.58.36:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.02-18.58.36:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.02-18.58.36:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.02-18.58.36:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.02-18.58.36:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.02-18.58.36:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.02-18.58.36:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.02-18.58.36:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.02-18.58.36:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.02-18.58.36:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.02-18.58.36:907][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.02-18.58.37:393][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.02-18.58.37:474][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.02-18.58.37:474][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.02-18.58.37:474][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.02-18.58.37:475][  0]LogTargetPlatformManager:   PCM
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager:   BINKA
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager:   OGG
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.02-18.58.37:534][  0]LogTargetPlatformManager:   OPUS
+[2022.11.02-18.58.38:745][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.02-18.58.38:819][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.02-18.58.38:820][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.02-18.58.38:854][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.02-18.58.38:855][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.02-18.58.38:855][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.02-18.58.38:856][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.02-18.58.38:878][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.02-18.58.38:878][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.02-18.58.38:879][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.02-18.58.38:881][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.02-18.58.38:882][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.02-18.58.39:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UWE/Workstream 3/Temporal_Tenacity/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.02-18.58.39:194][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.02-18.58.39:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UWE/Workstream 3/Temporal_Tenacity/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-18.58.39:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.02-18.58.39:330][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.02-18.58.39:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-18.58.39:330][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.02-18.58.39:349][  0]LogDerivedDataCache: Speed tests for C:/Users/tenri/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.11.02-18.58.39:349][  0]LogDerivedDataCache: Display: Performance to C:/Users/tenri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=167.82MBs, RandomWriteSpeed=74.02MBs. Assigned SpeedClass 'Local'
+[2022.11.02-18.58.39:361][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tenri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.02-18.58.39:361][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.02-18.58.39:361][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.02-18.58.39:368][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.02-18.58.39:368][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.02-18.58.39:368][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/Shaders/WorkingDirectory/22796/).
+[2022.11.02-18.58.39:369][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tenri/AppData/Local/Temp/UnrealShaderWorkingDir/D46F6FDD436413F5483EB6AB788795F9/'.
+[2022.11.02-18.58.39:369][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.02-18.58.39:369][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.11.02-18.58.52:382][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.02-18.58.52:429][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.02-18.58.53:773][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2022.11.02-18.58.53:780][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.02-18.58.54:301][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.02-18.58.54:302][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.02-18.58.54:620][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.02-18.58.54:620][  0]LogDeviceProfileManager: Active device profile: [000005968ABD9BC0][00000596852C0000 50] WindowsEditor
+[2022.11.02-18.58.54:620][  0]LogDeviceProfileManager: Profiles: [000005968ABD9680][00000596852C2800 50] Windows, [000005968ABD9BC0][00000596852C0000 50] WindowsEditor, [000005968ABD9140][00000596852CA000 50] WindowsServer, [000005968ABD5940][0000059678587800 50] WindowsClient, [000005968ABD5780][0000059685267800 50] IOS, [000005968ABD8C00][00000596852C5000 50] iPadAir2, [000005968ABD9F40][000005968AFE0000 50] IPadPro, [000005968ABDA2C0][000005968AFE2800 50] iPadAir3, [000005968ABD6040][000005968AFE7800 50] iPadAir4, [000005968ABD9D80][000005968AFEA000 50] iPadMini4, [000005968ABD8340][000005968AFEC800 50] iPadMini5, [000005968ABD5240][0000059685265000 50] iPadMini6, [000005968ABDD040][000005968AFC2800 50] iPhone6S, [000005968ABDD3C0][000005968AFC0000 50] iPhone7, [000005968ABDD740][000005968AFC5000 50] iPodTouch7, [000005968ABDA480][000005968AFCA000 50] iPhone6SPlus, [000005968ABDB440][000005968AFCC800 50] iPhone7Plus, [000005968ABD6C80][000005968AFE5000 50] iPhoneSE, [000005968ABD5E80][000005968AFC7800 50] iPhone8, [000005968ABDD900][000005968AFF0000 50] iPhone8Plus, [000005968ABDC080][000005968AFF5000 50] iPhoneX, [000005968ABD7540][000005968AFF7800 50] iPhoneXS, [000005968ABD7FC0][000005968AFFA000 50] iPhoneXSMax, [000005968ABD71C0][000005968AFFC800 50] iPhoneXR, [000005968ABD6900][000005968638C800 50] iPhone11, [000005968ABD63C0][000005968AF70000 50] iPhone11Pro, [000005968ABD94C0][000005968AF75000 50] iPhone11ProMax, [000005968ABDA100][000005968AF77800 50] iPhoneSE2, [000005968ABD6E40][000005968AF7A000 50] iPhone12Mini, [000005968ABDD580][000005968AF7C800 50] iPhone12, [000005968ABDB280][000005968AFF2800 50] iPhone12Pro, [000005968ABDAD40][000005968AF80000 50] iPhone12ProMax, [000005968ABD7E00][000005968AF85000 50] iPhone13Mini, [000005968ABD8500][000005968AF87800 50] iPhone13, [000005968ABD7700][000005968AF8A000 50] iPhone13Pro, [000005968ABD86C0][000005968AF8C800 50] iPhone13ProMax, [000005968ABDC780][000005968AF72800 50] iPadPro105, [000005968ABD8180][000005968B010000 50] iPadPro129, [000005968ABD8A40][000005968B015000 50] iPadPro97, [000005968ABD8F80][000005968B017800 50] iPadPro2_129, [000005968ABD55C0][000005968B01A000 50] iPad5, [000005968ABD6740][000005968B01C800 50] iPad6, [000005968ABD8DC0][000005968AF82800 50] iPad7, [000005968ABDC400][000005968B020000 50] iPad8, [000005968ABDDAC0][000005968B025000 50] iPad9, [000005968ABDBB40][000005968B027800 50] iPadPro11, [000005968ABD5CC0][000005968B02A000 50] iPadPro2_11, [000005968ABDC5C0][000005968B02C800 50] iPadPro3_11, [000005968ABDA9C0][000005968B012800 50] iPadPro3_129, [000005968ABDCE80][000005968B030000 50] iPadPro4_129, [000005968ABD9300][000005968B035000 50] iPadPro5_129, [000005968ABDB600][000005968B037800 50] AppleTV, [000005968ABD7380][000005968B03A000 50] AppleTV4K, [000005968ABDAF00][000005968B03C800 50] TVOS, [000005968ABDF340][000005968B070000 50] Mac, [000005968ABDF6C0][000005968B072800 50] MacEditor, [000005968ABDE700][000005968B077800 50] MacClient, [000005968ABDAB80][000005968B07A000 50] MacServer, [000005968ABDF880][000005968B022800 50] Linux, [000005968ABDFDC0][000005968B032800 50] LinuxEditor, [000005968ABD7C40][000005968B07C800 50] LinuxArm64Editor, [000005968ABDEE00][000005968B040000 50] LinuxArm64, [000005968ABD8880][000005968B045000 50] LinuxClient, [000005968ABDCB00][000005968B047800 50] LinuxArm64Client, [000005968ABDFA40][000005968B04A000 50] LinuxServer, [000005968ABD7A80][000005968B04C800 50] LinuxArm64Server, [000005968ABD5B00][000005968B075000 50] Android, [000005968ABDFC00][000005968B050000 50] Android_Preview_OpenGL, [000005968ABD5400][000005968B055000 50] Android_Preview_Vulkan, [000005968ABDCCC0][000005968B057800 50] Android_Low, [000005968ABD6200][000005968B05A000 50] Android_Mid, [000005968ABDDE40][000005968B05C800 50] Android_High, [000005968ABDB0C0][000005968B042800 50] Android_Default, [000005968ABDF500][000005968B060000 50] Android_Adreno4xx, [000005968ABDC240][000005968B065000 50] Android_Adreno5xx_Low, [000005968ABD78C0][000005968B067800 50] Android_Adreno5xx, [000005968ABDEA80][000005968B06A000 50] Android_Adreno6xx, [000005968ABDD200][000005968B06C800 50] Android_Adreno6xx_Vulkan, [000005968ABD6580][000005968B052800 50] Android_Adreno7xx, [000005968ABDE1C0][000005968B080000 50] Android_Adreno7xx_Vulkan, [000005968ABD5080][000005968B085000 50] Android_Mali_T6xx, [000005968B090000][000005968B087800 50] Android_Mali_T7xx, [000005968B092300][000005968B08A000 50] Android_Mali_T8xx, [000005968B091180][000005968B08C800 50] Android_Mali_G71, [000005968B090FC0][000005968B062800 50] Android_Mali_G72, [000005968B091880][000005968B0A0000 50] Android_Mali_G72_Vulkan, [000005968B092A00][000005968B0A5000 50] Android_Mali_G76, [000005968B092840][000005968B0A7800 50] Android_Mali_G76_Vulkan, [000005968B091A40][000005968B0AA000 50] Android_Mali_G77, [000005968B0916C0][000005968B0AC800 50] Android_Mali_G77_Vulkan, [000005968B093800][000005968B082800 50] Android_Mali_G78, [000005968B092140][000005968B0B0000 50] Android_Mali_G78_Vulkan, [000005968B091C00][000005968B0B5000 50] Android_Mali_G710, [000005968B0932C0][000005968B0B7800 50] Android_Mali_G710_Vulkan, [000005968B090A80][000005968B0BA000 50] Android_Xclipse_920, [000005968B091340][000005968B0BC800 50] Android_Xclipse_920_Vulkan, [000005968B091F80][000005968B0A2800 50] Android_Vulkan_SM5, [000005968B0924C0][000005968B0C0000 50] Android_PowerVR_G6xxx, [000005968B0947C0][000005968B0C5000 50] Android_PowerVR_GT7xxx, [000005968B093B80][000005968B0C7800 50] Android_PowerVR_GE8xxx, [000005968B092680][000005968B0CA000 50] Android_PowerVR_GM9xxx, [000005968B094280][000005968B0CC800 50] Android_PowerVR_GM9xxx_Vulkan, [000005968B093D40][000005968B0B2800 50] Android_TegraK1, [000005968B092BC0][000005968B0D0000 50] Android_Unknown_Vulkan, [000005968B090700][000005968B0D5000 50] Oculus_Quest, [000005968B093640][000005968B0D7800 50] Oculus_Quest2, [000005968B0908C0][000005968B0DA000 50] HoloLens, 
+[2022.11.02-18.58.54:620][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.02-18.58.55:302][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.02-18.58.57:218][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.02-18.58.57:218][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.02-18.58.57:219][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.02-18.58.57:219][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.02-18.58.57:219][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.02-18.58.57:651][  0]LogNetVersion: Temporal_Tenacity 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 586413073)
+[2022.11.02-18.59.01:581][  0]LogSlate: Border
+[2022.11.02-18.59.01:581][  0]LogSlate: BreadcrumbButton
+[2022.11.02-18.59.01:581][  0]LogSlate: Default
+[2022.11.02-18.59.01:581][  0]LogSlate: Icons.Save
+[2022.11.02-18.59.01:581][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.02-18.59.01:581][  0]LogSlate: ListView
+[2022.11.02-18.59.01:581][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.02-18.59.01:581][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.02-18.59.01:581][  0]LogSlate: TableView.DarkRow
+[2022.11.02-18.59.01:581][  0]LogSlate: TableView.Row
+[2022.11.02-18.59.01:581][  0]LogSlate: TreeView
+[2022.11.02-18.59.12:147][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.12:666][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.12:666][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.13:318][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.02-18.59.13:318][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.02-18.59.13:318][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.02-18.59.18:253][  0]LogPython: Using Python 3.9.7
+[2022.11.02-18.59.20:634][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9A45B8D14D7F5C42DD1828AA43BB7066 | Instance: 035C38D84EF4922B43A464861325AD80 (DESKTOP-ES48RO4-22796).
+[2022.11.02-18.59.21:363][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.02-18.59.21:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.02-18.59.22:755][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.22:804][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.22:847][  0]SourceControl: Source control is disabled
+[2022.11.02-18.59.22:967][  0]LogUProjectInfo: Found projects:
+[2022.11.02-18.59.27:880][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.02-18.59.29:033][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.02-18.59.29:444][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-18.59.29:444][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-18.59.30:583][  0]LogCollectionManager: Loaded 0 collections in 0.001765 seconds
+[2022.11.02-18.59.32:011][  0]LogFileCache: Scanning file cache for directory 'X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Saved/Collections/' took 0.00s
+[2022.11.02-18.59.32:011][  0]LogFileCache: Scanning file cache for directory 'X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Content/Developers/tenri/Collections/' took 0.00s
+[2022.11.02-18.59.32:011][  0]LogFileCache: Scanning file cache for directory 'X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Content/Collections/' took 0.00s
+[2022.11.02-18.59.33:376][  0]LogEngine: Initializing Engine...
+[2022.11.02-18.59.33:716][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.02-18.59.33:935][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.02-18.59.37:209][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.02-18.59.37:209][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-18.59.37:448][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-18.59.37:751][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.02-18.59.37:753][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.02-18.59.37:871][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.02-18.59.37:890][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.02-18.59.37:890][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.02-18.59.37:890][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.02-18.59.37:890][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-18.59.37:890][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-18.59.37:891][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-18.59.37:891][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-18.59.37:891][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-18.59.37:891][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-18.59.38:028][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-18.59.38:103][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.11.02-18.59.38:103][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-18.59.38:180][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-18.59.38:180][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-18.59.38:182][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.02-18.59.38:182][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.02-18.59.38:184][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.02-18.59.38:184][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.02-18.59.38:184][  0]LogInit: FAudioDevice initialized.
+[2022.11.02-18.59.38:210][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.02-18.59.38:210][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.02-18.59.38:210][  0]LogInit: Texture streaming: Enabled
+[2022.11.02-18.59.38:457][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.02-18.59.38:493][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.02-18.59.38:856][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.02-18.59.38:894][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.02-18.59.38:894][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.02-19.00.07:794][  0]LogLiveCoding: Display: First instance in process group "UE_Temporal_Tenacity_0x71ede48a", spawning console
+[2022.11.02-19.00.07:794][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.02-19.00.07:794][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../UWE/Workstream 3/Temporal_Tenacity/Intermediate/CachedAssetRegistry.bin.tmp
+[2022.11.02-19.00.07:794][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.02-19.00.07:806][  0]LogInit: Transaction tracking system initialized
+[2022.11.02-19.00.08:182][  0]BlueprintLog: New page: Editor Load
+[2022.11.02-19.00.09:339][  0]LocalizationService: Localization service is disabled
+[2022.11.02-19.00.09:620][  0]TimingProfiler: Initialize
+[2022.11.02-19.00.09:620][  0]TimingProfiler: OnSessionChanged
+[2022.11.02-19.00.09:620][  0]LoadingProfiler: Initialize
+[2022.11.02-19.00.09:620][  0]LoadingProfiler: OnSessionChanged
+[2022.11.02-19.00.09:621][  0]NetworkingProfiler: Initialize
+[2022.11.02-19.00.09:621][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.02-19.00.09:621][  0]MemoryProfiler: Initialize
+[2022.11.02-19.00.09:621][  0]MemoryProfiler: OnSessionChanged
+[2022.11.02-19.00.14:184][  0]LogFileCache: Scanning file cache for directory 'X:/Games Design/UWE/Workstream 3/Temporal_Tenacity/Content/' took 0.01s
+[2022.11.02-19.00.14:184][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.02-19.00.14:698][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.02-19.00.14:703][  0]SourceControl: Source control is disabled
+[2022.11.02-19.00.14:703][  0]LogUnrealEdMisc: Loading editor; pre map load, took 142.511
+[2022.11.02-19.00.14:879][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.11.02-19.00.15:017][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.11.02-19.00.15:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.11.02-19.00.15:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.11.02-19.00.15:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.11.02-19.00.15:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.11.02-19.00.15:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.11.02-19.00.15:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.11.02-19.00.15:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.11.02-19.00.15:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.11.02-19.00.15:718][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset".
+[2022.11.02-19.00.15:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.11.02-19.00.15:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.11.02-19.00.16:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.11.02-19.00.16:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.11.02-19.00.16:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.11.02-19.00.16:150][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_400x400.uasset".
+[2022.11.02-19.00.16:168][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_500x500.uasset".
+[2022.11.02-19.00.16:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.11.02-19.00.16:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.11.02-19.00.16:246][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_Window_400x300.uasset".
+[2022.11.02-19.00.16:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.11.02-19.00.16:277][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Ambient_Dust.uasset".
+[2022.11.02-19.00.16:343][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Explosion.uasset".
+[2022.11.02-19.00.16:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.11.02-19.00.16:379][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Smoke.uasset".
+[2022.11.02-19.00.16:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.11.02-19.00.16:446][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/P_Steam_Lit.uasset".
+[2022.11.02-19.00.16:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.11.02-19.00.16:487][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Bush.uasset".
+[2022.11.02-19.00.16:507][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Chair.uasset".
+[2022.11.02-19.00.16:570][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_CornerFrame.uasset".
+[2022.11.02-19.00.16:595][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Couch.uasset".
+[2022.11.02-19.00.16:612][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Door.uasset".
+[2022.11.02-19.00.16:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.11.02-19.00.16:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.11.02-19.00.16:935][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset".
+[2022.11.02-19.00.16:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.11.02-19.00.16:973][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset".
+[2022.11.02-19.00.17:355][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_PillarFrame.uasset".
+[2022.11.02-19.00.17:411][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_PillarFrame300.uasset".
+[2022.11.02-19.00.17:431][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Rock.uasset".
+[2022.11.02-19.00.17:455][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Shelf.uasset".
+[2022.11.02-19.00.17:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.11.02-19.00.17:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.11.02-19.00.17:529][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_TableRound.uasset".
+[2022.11.02-19.00.17:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.11.02-19.00.17:767][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Collapse01.uasset".
+[2022.11.02-19.00.17:812][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Collapse02.uasset".
+[2022.11.02-19.00.17:838][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Collapse_Cue.uasset".
+[2022.11.02-19.00.17:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.11.02-19.00.17:952][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Explosion02.uasset".
+[2022.11.02-19.00.18:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.11.02-19.00.18:077][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Fire01.uasset".
+[2022.11.02-19.00.18:110][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Fire01_Cue.uasset".
+[2022.11.02-19.00.18:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.11.02-19.00.18:303][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset".
+[2022.11.02-19.00.18:326][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Light01.uasset".
+[2022.11.02-19.00.18:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.11.02-19.00.18:351][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Light02.uasset".
+[2022.11.02-19.00.18:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.11.02-19.00.18:388][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Smoke01.uasset".
+[2022.11.02-19.00.18:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.11.02-19.00.18:400][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Background_Cue.uasset".
+[2022.11.02-19.00.18:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.11.02-19.00.18:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.11.02-19.00.18:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.11.02-19.00.18:655][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Wind05.uasset".
+[2022.11.02-19.00.18:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.11.02-19.00.18:741][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Steam01.uasset".
+[2022.11.02-19.00.18:748][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Audio/Steam01_Cue.uasset".
+[2022.11.02-19.00.18:810][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Cone.uasset".
+[2022.11.02-19.00.18:828][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Cube.uasset".
+[2022.11.02-19.00.18:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.11.02-19.00.18:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.11.02-19.00.18:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.11.02-19.00.18:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.11.02-19.00.18:936][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Pipe_90.uasset".
+[2022.11.02-19.00.18:957][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Plane.uasset".
+[2022.11.02-19.00.19:015][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset".
+[2022.11.02-19.00.19:073][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Sphere.uasset".
+[2022.11.02-19.00.19:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.11.02-19.00.19:108][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Trim.uasset".
+[2022.11.02-19.00.19:128][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset".
+[2022.11.02-19.00.19:143][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset".
+[2022.11.02-19.00.19:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.11.02-19.00.19:182][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Tube.uasset".
+[2022.11.02-19.00.19:196][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Wedge_A.uasset".
+[2022.11.02-19.00.19:242][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_Wedge_B.uasset".
+[2022.11.02-19.00.19:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.11.02-19.00.19:308][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/Advanced_Lighting.umap".
+[2022.11.02-19.00.19:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.11.02-19.00.19:411][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/Minimal_Default.umap".
+[2022.11.02-19.00.19:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.11.02-19.00.19:711][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/StarterMap.umap".
+[2022.11.02-19.00.19:744][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Maps/StarterMap_BuiltData.uasset".
+[2022.11.02-19.00.19:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.11.02-19.00.20:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.11.02-19.00.20:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.11.02-19.00.20:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.11.02-19.00.20:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.11.02-19.00.20:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.11.02-19.00.20:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.11.02-19.00.20:226][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset".
+[2022.11.02-19.00.20:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.11.02-19.00.20:268][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset".
+[2022.11.02-19.00.20:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.11.02-19.00.20:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.11.02-19.00.20:329][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset".
+[2022.11.02-19.00.20:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.11.02-19.00.20:424][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Concrete_Panels.uasset".
+[2022.11.02-19.00.20:449][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Concrete_Poured.uasset".
+[2022.11.02-19.00.20:468][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Concrete_Tiles.uasset".
+[2022.11.02-19.00.20:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.11.02-19.00.20:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.11.02-19.00.20:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.11.02-19.00.20:544][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Ground_Moss.uasset".
+[2022.11.02-19.00.20:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.11.02-19.00.20:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.11.02-19.00.20:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.11.02-19.00.20:679][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Copper.uasset".
+[2022.11.02-19.00.20:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.11.02-19.00.20:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.11.02-19.00.20:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.11.02-19.00.20:785][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Rock_Basalt.uasset".
+[2022.11.02-19.00.20:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.11.02-19.00.21:039][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Rock_Sandstone.uasset".
+[2022.11.02-19.00.21:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.11.02-19.00.21:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.11.02-19.00.21:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.11.02-19.00.21:122][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset".
+[2022.11.02-19.00.21:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.11.02-19.00.21:161][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Water_Lake.uasset".
+[2022.11.02-19.00.21:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.11.02-19.00.21:310][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset".
+[2022.11.02-19.00.21:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.11.02-19.00.21:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.11.02-19.00.21:370][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Wood_Pine.uasset".
+[2022.11.02-19.00.21:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.11.02-19.00.21:410][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset".
+[2022.11.02-19.00.21:513][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset".
+[2022.11.02-19.00.21:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.11.02-19.00.21:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.11.02-19.00.21:934][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset".
+[2022.11.02-19.00.22:022][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset".
+[2022.11.02-19.00.22:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.11.02-19.00.22:236][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset".
+[2022.11.02-19.00.22:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.11.02-19.00.22:777][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset".
+[2022.11.02-19.00.22:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.11.02-19.00.23:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.11.02-19.00.23:093][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset".
+[2022.11.02-19.00.23:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.11.02-19.00.23:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.11.02-19.00.23:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.11.02-19.00.23:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.11.02-19.00.23:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.11.02-19.00.23:358][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Chair_M.uasset".
+[2022.11.02-19.00.23:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.11.02-19.00.23:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.11.02-19.00.23:603][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset".
+[2022.11.02-19.00.24:093][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset".
+[2022.11.02-19.00.24:138][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset".
+[2022.11.02-19.00.24:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.11.02-19.00.24:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.11.02-19.00.24:775][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset".
+[2022.11.02-19.00.24:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.11.02-19.00.25:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.11.02-19.00.25:347][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset".
+[2022.11.02-19.00.25:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.11.02-19.00.25:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.11.02-19.00.25:937][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset".
+[2022.11.02-19.00.26:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.11.02-19.00.26:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.11.02-19.00.26:949][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset".
+[2022.11.02-19.00.27:043][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset".
+[2022.11.02-19.00.27:112][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset".
+[2022.11.02-19.00.27:229][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset".
+[2022.11.02-19.00.27:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.11.02-19.00.27:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.11.02-19.00.27:357][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Dust_Particle_D.uasset".
+[2022.11.02-19.00.27:385][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Explosion_SubUV.uasset".
+[2022.11.02-19.00.27:464][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Fire_SubUV.uasset".
+[2022.11.02-19.00.27:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.11.02-19.00.27:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.11.02-19.00.27:583][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Frame_N.uasset".
+[2022.11.02-19.00.27:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.11.02-19.00.27:943][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ground_Grass_D.uasset".
+[2022.11.02-19.00.28:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.11.02-19.00.28:321][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset".
+[2022.11.02-19.00.28:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.11.02-19.00.28:635][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_ground_Moss_D.uasset".
+[2022.11.02-19.00.28:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.11.02-19.00.28:834][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Lamp_M.uasset".
+[2022.11.02-19.00.28:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.11.02-19.00.29:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.11.02-19.00.29:399][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset".
+[2022.11.02-19.00.29:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.11.02-19.00.29:867][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Gold_D.uasset".
+[2022.11.02-19.00.30:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.11.02-19.00.30:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.11.02-19.00.30:474][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Rust_N.uasset".
+[2022.11.02-19.00.30:534][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Steel_D.uasset".
+[2022.11.02-19.00.30:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.11.02-19.00.31:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.11.02-19.00.31:075][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_RockMesh_M.uasset".
+[2022.11.02-19.00.31:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.11.02-19.00.31:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.11.02-19.00.31:380][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset".
+[2022.11.02-19.00.31:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.11.02-19.00.31:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.11.02-19.00.31:974][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset".
+[2022.11.02-19.00.32:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.11.02-19.00.32:640][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Slate_N.uasset".
+[2022.11.02-19.00.33:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.11.02-19.00.33:028][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Shelf_M.uasset".
+[2022.11.02-19.00.33:116][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Shelf_N.uasset".
+[2022.11.02-19.00.33:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.11.02-19.00.33:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.11.02-19.00.33:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.11.02-19.00.33:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.11.02-19.00.33:942][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Statue_M.uasset".
+[2022.11.02-19.00.34:005][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Statue_N.uasset".
+[2022.11.02-19.00.34:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.11.02-19.00.34:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.11.02-19.00.34:107][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Dot_M.uasset".
+[2022.11.02-19.00.34:127][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Dot_N.uasset".
+[2022.11.02-19.00.34:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.11.02-19.00.34:213][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset".
+[2022.11.02-19.00.34:240][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Panel_M.uasset".
+[2022.11.02-19.00.34:278][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Tech_Panel_N.uasset".
+[2022.11.02-19.00.34:331][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Water_M.uasset".
+[2022.11.02-19.00.34:366][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Water_N.uasset".
+[2022.11.02-19.00.34:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.11.02-19.00.35:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.11.02-19.00.35:183][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset".
+[2022.11.02-19.00.35:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.11.02-19.00.35:299][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Oak_N.uasset".
+[2022.11.02-19.00.35:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.11.02-19.00.35:567][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Pine_N.uasset".
+[2022.11.02-19.00.35:637][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset".
+[2022.11.02-19.00.35:772][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset".
+[2022.11.02-19.00.35:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.11.02-19.00.35:832][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset".
+[2022.11.02-19.00.36:193][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset".
+[2022.11.02-19.00.36:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.11.02-19.00.36:514][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset".
+[2022.11.02-19.00.36:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.11.02-19.00.36:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.11.02-19.00.36:652][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset".
+[2022.11.02-19.00.36:676][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Burst.uasset".
+[2022.11.02-19.00.36:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.11.02-19.00.36:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.11.02-19.00.36:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.11.02-19.00.36:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.11.02-19.00.36:910][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset".
+[2022.11.02-19.00.36:929][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset".
+[2022.11.02-19.00.36:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.11.02-19.00.36:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.11.02-19.00.36:974][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Particles/Materials/M_Spark.uasset".
+[2022.11.02-19.00.36:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.11.02-19.00.37:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.11.02-19.00.37:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.11.02-19.00.37:158][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Frame.uasset".
+[2022.11.02-19.00.37:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.11.02-19.00.37:246][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset".
+[2022.11.02-19.00.37:263][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset".
+[2022.11.02-19.00.37:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.11.02-19.00.37:645][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Shelf.uasset".
+[2022.11.02-19.00.37:661][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_Statue.uasset".
+[2022.11.02-19.00.37:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.11.02-19.00.37:697][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Props/Materials/M_TableRound.uasset".
+[2022.11.02-19.00.39:433][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.11.02-19.00.39:628][  0]LogDerivedDataCache: C:/Users/tenri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.125 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.02-19.00.41:592][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.066363 seconds
+[2022.11.02-19.00.42:045][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Blueprint_CeilingLight
+[2022.11.02-19.00.42:045][  0]LogSavePackage: Moving '../../../../../UWE/Workstream 3/Temporal_Tenacity/Saved/Blueprint_CeilingLightF94E241F4874E76D48E03E94BC77A216.tmp' to '../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2022.11.02-19.00.42:151][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.11.02-19.00.42:153][  0]Cmd: MAP LOAD FILE="../../../../../UWE/Workstream 3/Temporal_Tenacity/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.02-19.00.42:153][  0]LightingResults: New page: Lighting Build
+[2022.11.02-19.00.42:205][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-19.00.42:206][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-19.00.42:206][  0]MapCheck: New page: Map Check
+[2022.11.02-19.00.42:206][  0]LightingResults: New page: Lighting Build
+[2022.11.02-19.00.42:232][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-19.00.42:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.02-19.00.46:416][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2022.11.02-19.00.46:493][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-19.00.46:493][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2022.11.02-19.00.46:494][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.02-19.00.46:494][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.02-19.00.47:224][  0]LogWorldPartition: Display: WorldPartition initialize took 730 ms
+[2022.11.02-19.00.47:957][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.02-19.00.48:122][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.11.02-19.00.48:154][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.02-19.00.48:155][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.02-19.00.48:155][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2022.11.02-19.00.48:155][  0]LogFileHelpers: Loading map 'TopDownMap' took 6.002
+[2022.11.02-19.00.48:505][  0]LogUnrealEdMisc: Total Editor Startup Time, took 176.312
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: ================================================
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.02-19.00.48:506][  0]LogShaderCompilers: Display: ================================================
+[2022.11.02-19.00.49:069][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.02-19.00.49:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.00.49:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.00.49:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.00.49:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.00.50:650][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:650][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:651][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:651][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:652][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:652][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:653][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:653][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:653][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:653][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:654][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:654][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:655][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:655][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:655][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:655][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:656][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:656][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:656][  0]LogPakFile: Display: Mounted Pak file 'X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.02-19.00.50:656][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.02-19.00.50:656][  0]LogFeaturePack: Error: Error in Feature pack X:/Games Design/Engine Versions/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.02-19.00.51:099][  0]LogSlate: Took 0.017787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.02-19.00.51:123][  0]LogSlate: Took 0.013117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.02-19.00.51:337][  0]LogSlate: Took 0.029643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.02-19.00.51:355][  0]LogSlate: Took 0.016371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.02-19.00.51:583][  0]LogViewport: Scene viewport resized to 1170x877, mode Windowed.
+[2022.11.02-19.00.54:141][  0]LogStall: Startup...
+[2022.11.02-19.00.54:145][  0]LogStall: Startup complete.
+[2022.11.02-19.00.54:589][  0]LogLoad: (Engine Initialization) Total time: 182.40 seconds
+[2022.11.02-19.00.54:589][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.02-19.00.54:770][  0]AssetCheck: New page: Asset Save: Blueprint_CeilingLight
+[2022.11.02-19.00.54:771][  0]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+[2022.11.02-19.00.55:033][  0]LogAssetRegistry: Asset discovery search completed in 121.2699 seconds
+[2022.11.02-19.00.55:084][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.02-19.00.55:084][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.02-19.00.57:297][  4]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 11.125670 sec, no shader worker used.
+[2022.11.02-19.01.00:647][ 13]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.11.02-19.02.48:875][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-19.02.49:090][487]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Display: GetPartitionedActors took 299 us
+[2022.11.02-19.02.49:091][487]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.11.02-19.02.49:270][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-19.02.49:299][487]PIE: New page: PIE session: TopDownMap (2 Nov 2022, 19:02:49)
+[2022.11.02-19.02.49:313][487]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.02-19.02.49:320][487]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.02-19.02.49:334][487]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.11.02-19.02.49:432][487]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.02-19.02.49:448][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113881s)
+[2022.11.02-19.02.49:448][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.114280s)
+[2022.11.02-19.02.49:465][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-19.02.49:465][487]LogAIModule: Creating AISystem for world TopDownMap
+[2022.11.02-19.02.49:491][487]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.02-19.02.49:491][487]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.02-19.02.49:493][487]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.02-19.02.49:493][487]LogPlayLevel: PIE: World Init took: (0.045519s)
+[2022.11.02-19.02.49:514][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.02-19.02.49:531][487]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-19.02.49:531][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-19.02.49:531][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-19.02.49:532][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-19.02.49:532][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-19.02.49:532][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-19.02.49:534][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-19.02.49:567][487]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.11.02-19.02.49:568][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-19.02.49:568][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-19.02.49:568][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-19.02.49:570][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.02-19.02.49:570][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.02-19.02.49:572][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.02-19.02.49:572][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.02-19.02.49:572][487]LogInit: FAudioDevice initialized.
+[2022.11.02-19.02.49:572][487]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2022.11.02-19.02.49:697][487]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.11.02-19.02.49:700][487]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.11.02-19.02.49
+[2022.11.02-19.02.49:793][487]LogWorld: Bringing up level for play took: 0.095553
+[2022.11.02-19.02.49:806][487]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.11.02-19.02.50:563][487]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=98.338
+[2022.11.02-19.02.50:563][487]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.02-19.02.50:641][487]PIE: Server logged in
+[2022.11.02-19.02.50:653][487]PIE: Play in editor total start time 1.653 seconds.
+[2022.11.02-19.03.24:718][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.03.24:718][989]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.11.02-19.03.24:718][989]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-19.03.24:753][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-19.03.24:771][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-19.03.24:795][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-19.03.24:813][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-19.03.24:813][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.02-19.03.24:815][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.02-19.03.24:821][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-19.03.24:830][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.02-19.03.24:861][990]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.11.02-19.03.27:759][191]LogSlate: Took 0.024694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.02-19.03.27:904][191]LogSlate: Took 0.019398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.02-19.05.20:864][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2022.11.02-19.05.20:926][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
